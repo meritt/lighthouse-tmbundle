@@ -24,5 +24,5 @@ Either way, restart TextMate or select "Reload Bundles" from the Bundles >> Bund
 Author
 ======
 
-Alexey Simonenko, dwarfman@gmail.com
-Libin Pan, libinpan@gmail.com
+* Alexey Simonenko, dwarfman@gmail.com
+* Libin Pan, libinpan@gmail.com
